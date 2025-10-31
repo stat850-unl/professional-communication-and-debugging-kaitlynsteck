@@ -6,7 +6,7 @@ format:
 cvcolor: 58748F #without `#`
 cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
 cvmeta:
-    left:   616-206-6603
+    left: 
     right: ksteck2@huskers.unl.edu
 execute:
   echo: false
