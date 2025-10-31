@@ -40,4 +40,4 @@ Beautiful normal distribution!
 
 ## Provide a link to your CV, which you will generate in the next part.
 
-<https://github.com/stat850-unl/professional-communication-and-debugging-kaitlynsteck/blob/0b60118daea054f7ece27294f8f0dc8a233d2aab/KaitlynCV/KaitlynCV.qmd>
+ https://github.com/stat850-unl/professional-communication-and-debugging-kaitlynsteck/blob/0dc16cdc7887e7a884c558a176ff42ad5093c21c/KaitlynCV/KaitlynCV.pdf

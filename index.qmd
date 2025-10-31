@@ -30,7 +30,7 @@ Specifically, address the following things:
 
 Then, using what you know about R and Python, try to debug the problem using the strategies in [the debugging chapter](https://srvanderplas.github.io/stat-computing-r-python/part-gen-prog/06-debugging.html). Once you are thoroughly stumped, or you believe you have solved the problem, compare your solutions to those given on StackOverflow using the link.
 
-## Why Doesn't this R function work?
+## Why Doesn't this R function work? 
 
 > I created the following function to append new strings on a vector of strings called "meals". However, when I use this function to append an string input into my "meals" vector, it does not work.
 
